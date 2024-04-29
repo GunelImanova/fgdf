@@ -1,0 +1,21 @@
+{
+
+"users":[],
+"products":[
+{
+ "id":1,
+ "name":"Adidas",
+ "price": 345
+},
+{
+    "id":2,
+    "name":"Puma",
+    "price": 220
+   },
+   {
+    "id":3,
+    "name":"Nike",
+    "price": 150
+   }
+]
+}
