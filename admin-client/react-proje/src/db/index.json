@@ -2,19 +2,18 @@
     "countries": [
       {
         "id": "2",
-        "name": "Azerbaijan",
-        "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/800px-Flag_of_Azerbaijan.svg.png",
-        "description": "Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe. Its capital, Baku, is famed for its medieval walled Inner City. Within the Inner City lies the Palace of the Shirvanshahs, a royal retreat dating to the 15th century, and the centuries-old stone Maiden Tower, which dominates the city skyline.",
-        "population": "100350",
-        "capital": "Baku"
+        "name": "Snickers",
+        "Img": "https://bazarstore.az/cdn/shop/products/30075829.jpg?v=1693563268",
+        "description": "SNICKERS brendinin SNİCKERS 50 Q məhsulunu indi əldə etmək üçün səbətə əlavə et düyməsini klikləyin", 
+         "price": "2 azn",
       },
+
       {
         "id": "1",
-        "name": "Mexico",
-        "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
-        "description": "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It covers 1,972,550 km², making it the world's 13th-largest country by area; with a population of almost 130 million, it is the 10th-most-populous country and the most populous Spanish-speaking country.",
-        "population": 127500000,
-        "capital": "Mexico"
+        "name": "M&M's",
+        "flagImg": "https://pictures.mydutyfree.net/images/products/13/26/220x220/mms-peanut-pouch.1326.jpg",
+        "description": "M&Ms brendinin MMS SOKOLAD 80 GR məhsulunu indi əldə etmək üçün səbətə əlavə et düyməsini klikləyin.",
+        "price": "4.50 azn",
       },
       {
         "id": "3",
