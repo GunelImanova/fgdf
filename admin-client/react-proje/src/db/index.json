@@ -15,38 +15,7 @@
         "description": "M&Ms brendinin MMS SOKOLAD 80 GR məhsulunu indi əldə etmək üçün səbətə əlavə et düyməsini klikləyin.",
         "price": "4.50 azn",
       },
-      {
-        "id": "3",
-        "name": "Colombia",
-        "flagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/800px-Flag_of_Colombia.svg.png",
-        "description": "Colombia, officially the Republic of Colombia, is a country primarily located in South America with insular regions in North America.",
-        "population": 51870000,
-        "capital": "Bogotá"
-      },
-      {
-        "id": "4",
-        "name": "Germany",
-        "flagImg": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png",
-        "description": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank.",
-        "population": 83870000,
-        "capital": "Berlin"
-      },
-      {
-        "id": "e3bc",
-        "name": "Turkey",
-        "population": "84980000",
-        "description": "The national flag of Turkey, officially the Turkish flag, is a red flag featuring a white star and crescent from its emblem which was the prominent symbol of the Ottoman Empire, and in contemporary",
-        "capital": "Ankara",
-        "flagImg": "https://cdn.britannica.com/82/4782-050-8129909C/Flag-Turkey.jpg"
-      },
-      {
-        "id": "3c65",
-        "name": "Russia",
-        "population": 144200000,
-        "description": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world by area, and the largest country in Europe and the largest country in Asia, extending across eleven time zones and sharing land borders with fourteen countries.",
-        "capital": "Moscow",
-        "flagImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
-      }
+   
     ],
     "users": [
       {
